@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Prince Oforh Asiedu - Security Engineering Journey</title><link>https://princeasiedu.github.io/</link><description>Recent content in Home on Prince Oforh Asiedu - Security Engineering Journey</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://princeasiedu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://princeasiedu.github.io/about/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://princeasiedu.github.io/about/</guid><description>&lt;h2 id="hi-im-prince-oforh-asiedu">Hi, I&amp;rsquo;m Prince Oforh Asiedu&lt;/h2>
+&lt;p>I&amp;rsquo;m a passionate &lt;strong>software engineer&lt;/strong> and &lt;strong>open-source security advocate&lt;/strong> based in Ghana. My work revolves around &lt;strong>secure software development and security automation&lt;/strong>. This site serves as a journal of my learning journey, where I document insights, share research, and showcase the projects I build along the way.&lt;/p>
+&lt;h2 id="my-background">My Background&lt;/h2>
+&lt;p>I have a strong foundation in &lt;strong>software engineering&lt;/strong>, with experience in &lt;strong>backend development, cloud computing, and security engineering&lt;/strong>. My journey began with building scalable web applications, and over time, I developed a deep interest in &lt;strong>cybersecurity and DevSecOps&lt;/strong>.&lt;/p></description></item><item><title>Contact</title><link>https://princeasiedu.github.io/contact/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://princeasiedu.github.io/contact/</guid><description>&lt;h2 id="get-in-touch">Get In Touch&lt;/h2>
+&lt;p>I&amp;rsquo;m always open to collaborations, discussions, and new opportunities in the security and software engineering space. Feel free to reach out using any of the methods below:&lt;/p>
+&lt;h3 id="direct-contact">Direct Contact&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Email&lt;/strong>: &lt;a href="mailto:princeo.asiedu@gmail.com">princeo.asiedu@gmail.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://linkedin.com/in/princeoforhasiedu">linkedin.com/in/princeoforhasiedu&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="professional-interests">Professional Interests&lt;/h3>
+&lt;p>I&amp;rsquo;m particularly interested in discussing:&lt;/p>
+&lt;ul>
+&lt;li>Open source security projects&lt;/li>
+&lt;li>Security engineering best practices&lt;/li>
+&lt;li>Cloud security architecture&lt;/li>
+&lt;li>Threat intelligence collaboration&lt;/li>
+&lt;li>DevSecOps methodologies&lt;/li>
+&lt;/ul>
+&lt;h3 id="mentorship--collaboration">Mentorship &amp;amp; Collaboration&lt;/h3>
+&lt;p>I believe in knowledge sharing and community building. If you&amp;rsquo;re new to security engineering and seeking guidance, or if you have a security-focused project that needs contributors, I&amp;rsquo;d be happy to help.&lt;/p></description></item><item><title>Beginning My Security Engineering Journey</title><link>https://princeasiedu.github.io/posts/beginning-my-security-journey/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://princeasiedu.github.io/posts/beginning-my-security-journey/</guid><description>My first steps on the path to becoming a security-focused software engineer.</description></item><item><title>SecureScan CLI</title><link>https://princeasiedu.github.io/projects/secure-scan-cli/</link><pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate><guid>https://princeasiedu.github.io/projects/secure-scan-cli/</guid><description>A command-line tool for quick security scanning of web applications and API endpoints.</description></item><item><title>Threat Intelligence Dashboard</title><link>https://princeasiedu.github.io/projects/threat-intel-dashboard/</link><pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate><guid>https://princeasiedu.github.io/projects/threat-intel-dashboard/</guid><description>A web-based dashboard for aggregating and visualizing threat intelligence data from multiple sources.</description></item></channel></rss>

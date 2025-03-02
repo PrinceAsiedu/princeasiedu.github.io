@@ -1,0 +1,395 @@
+
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Prince Oforh Asiedu - Security Engineer & Open-Source Contributor">
+<meta property="og:title" content="Prince Oforh Asiedu - Security Engineering Journey">
+<meta property="og:description" content="Building secure applications and contributing to open-source security.">
+<meta property="og:image" content="/images/profile.jpeg">
+<meta property="og:url" content="https://princeasiedu.github.io/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+<title>404 Page not found | Prince Oforh Asiedu - Security Engineering Journey</title>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+
+<script src="https://cdn.tailwindcss.com"></script>
+
+
+<script>
+  tailwind.config = {
+    darkMode: 'class',
+    theme: {
+      extend: {
+        colors: {
+          primary: '#5aa6ff',
+          secondary: '#2d7bd9',
+        },
+        fontFamily: {
+          sans: ['Inter', 'system-ui', 'sans-serif'],
+        },
+        typography: (theme) => ({
+          DEFAULT: {
+            css: {
+              color: theme('colors.gray.800'),
+              a: {
+                color: theme('colors.primary'),
+                '&:hover': {
+                  color: theme('colors.secondary'),
+                },
+              },
+              h1: {
+                color: theme('colors.gray.900'),
+              },
+              h2: {
+                color: theme('colors.gray.900'),
+              },
+              h3: {
+                color: theme('colors.gray.900'),
+              },
+              h4: {
+                color: theme('colors.gray.900'),
+              },
+              code: {
+                color: theme('colors.pink.500'),
+                backgroundColor: theme('colors.gray.100'),
+                padding: '0.25rem',
+                borderRadius: '0.25rem',
+              },
+              'code::before': {
+                content: '""',
+              },
+              'code::after': {
+                content: '""',
+              },
+            },
+          },
+          dark: {
+            css: {
+              color: theme('colors.gray.300'),
+              a: {
+                color: theme('colors.primary'),
+                '&:hover': {
+                  color: theme('colors.secondary'),
+                },
+              },
+              h1: {
+                color: theme('colors.gray.100'),
+              },
+              h2: {
+                color: theme('colors.gray.100'),
+              },
+              h3: {
+                color: theme('colors.gray.100'),
+              },
+              h4: {
+                color: theme('colors.gray.100'),
+              },
+              code: {
+                color: theme('colors.pink.400'),
+                backgroundColor: theme('colors.gray.800'),
+              },
+            },
+          },
+        }),
+      },
+    },
+    variants: {
+      extend: {
+        typography: ['dark'],
+      },
+    },
+    plugins: [],
+  };
+</script>
+
+
+<style>
+   
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  
+  .animate-fadeIn {
+    animation: fadeIn 0.5s ease-in-out;
+  }
+  
+   
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+   
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+  
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+  
+   
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+  
+   
+  .dark ::-webkit-scrollbar-track {
+    background: #1e1e1e;
+  }
+  
+  .dark ::-webkit-scrollbar-thumb {
+    background: #555;
+  }
+  
+  .dark ::-webkit-scrollbar-thumb:hover {
+    background: #777;
+  }
+</style>
+
+
+<script>
+  
+  if (localStorage.getItem('theme') === 'dark' || 
+      (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    document.documentElement.classList.add('dark');
+  } else {
+    document.documentElement.classList.remove('dark');
+  }
+</script>
+</head>
+<body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 min-h-screen flex flex-col">
+
+  
+<header class="bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700 sticky top-0 z-50 shadow-sm">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex justify-between items-center h-16">
+      
+      <a href="/" class="flex items-center space-x-2">
+        <span class="text-xl font-bold text-primary">Prince Asiedu</span>
+      </a>
+
+      
+      <nav class="hidden md:flex items-center space-x-6">
+        <a href="/posts" class="text-gray-700 dark:text-gray-300 hover:text-primary dark:hover:text-primary font-medium transition-colors">Blog</a>
+        <a href="/projects" class="text-gray-700 dark:text-gray-300 hover:text-primary dark:hover:text-primary font-medium transition-colors">Projects</a>
+        <a href="/about" class="text-gray-700 dark:text-gray-300 hover:text-primary dark:hover:text-primary font-medium transition-colors">About</a>
+        <a href="/contact" class="text-gray-700 dark:text-gray-300 hover:text-primary dark:hover:text-primary font-medium transition-colors">Contact</a>
+        
+        
+        <button id="theme-button" class="p-2 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 hidden dark:block" viewBox="0 0 20 20" fill="currentColor">
+            <path fill-rule="evenodd" d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z" clip-rule="evenodd" />
+          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 block dark:hidden" viewBox="0 0 20 20" fill="currentColor">
+            <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z" />
+          </svg>
+        </button>
+      </nav>
+
+      
+      <div class="flex items-center md:hidden space-x-2">
+        <button id="theme-button-mobile" class="p-2 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 hidden dark:block" viewBox="0 0 20 20" fill="currentColor">
+            <path fill-rule="evenodd" d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z" clip-rule="evenodd" />
+          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 block dark:hidden" viewBox="0 0 20 20" fill="currentColor">
+            <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z" />
+          </svg>
+        </button>
+        
+        <button id="mobile-menu-btn" class="p-2 rounded text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
+      </div>
+    </div>
+    
+    
+    <div id="mobile-menu" class="hidden pb-4">
+      <nav class="flex flex-col space-y-4 py-2">
+        <a href="/posts" class="text-gray-700 dark:text-gray-300 hover:text-primary dark:hover:text-primary font-medium transition-colors px-4 py-2 rounded-lg">Blog</a>
+        <a href="/projects" class="text-gray-700 dark:text-gray-300 hover:text-primary dark:hover:text-primary font-medium transition-colors px-4 py-2 rounded-lg">Projects</a>
+        <a href="/about" class="text-gray-700 dark:text-gray-300 hover:text-primary dark:hover:text-primary font-medium transition-colors px-4 py-2 rounded-lg">About</a>
+        <a href="/contact" class="text-gray-700 dark:text-gray-300 hover:text-primary dark:hover:text-primary font-medium transition-colors px-4 py-2 rounded-lg">Contact</a>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<script>
+  
+  document.getElementById('mobile-menu-btn').addEventListener('click', function() {
+    document.getElementById('mobile-menu').classList.toggle('hidden');
+  });
+  
+  
+  const themeButtons = [
+    document.getElementById('theme-button'),
+    document.getElementById('theme-button-mobile')
+  ];
+  
+  themeButtons.forEach(button => {
+    if (button) {
+      button.addEventListener('click', () => {
+        if (document.documentElement.classList.contains('dark')) {
+          document.documentElement.classList.remove('dark');
+          localStorage.setItem('theme', 'light');
+        } else {
+          document.documentElement.classList.add('dark');
+          localStorage.setItem('theme', 'dark');
+        }
+      });
+    }
+  });
+</script>
+
+  <main class="flex-grow">
+    
+<div class="wrapper">
+    <main class="main-404" aria-label="Content">
+        <h1></h1>
+        <p></p>
+    </main>
+</div>
+
+  </main>
+
+  
+<footer class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 pt-12 pb-8">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+    
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
+      
+      <div class="col-span-1 md:col-span-2">
+        <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-4">Prince Oforh Asiedu</h3>
+        <p class="text-gray-600 dark:text-gray-300 mb-4 max-w-sm">
+          Building secure, scalable, and resilient applications. Focused on cybersecurity and open-source contributions.
+        </p>
+        <div class="flex space-x-4">
+          <a href="https://github.com/princeasiedu" target="_blank" rel="noopener" aria-label="GitHub" 
+             class="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors">
+            <i class="fab fa-github text-xl"></i>
+          </a>
+          <a href="https://linkedin.com/in/princeoforhasiedu" target="_blank" rel="noopener" aria-label="LinkedIn" 
+             class="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors">
+            <i class="fab fa-linkedin text-xl"></i>
+          </a>
+          <a href="mailto:princeo.asiedu@gmail.com" aria-label="Email" 
+             class="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors">
+            <i class="fas fa-envelope text-xl"></i>
+          </a>
+        </div>
+      </div>
+      
+      
+      <div>
+        <h3 class="text-md font-bold text-gray-900 dark:text-white mb-4">Quick Links</h3>
+        <ul class="space-y-2">
+          <li>
+            <a href="/posts" class="text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors">Blog</a>
+          </li>
+          <li>
+            <a href="/projects" class="text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors">Projects</a>
+          </li>
+          <li>
+            <a href="/about" class="text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors">About</a>
+          </li>
+          <li>
+            <a href="/contact" class="text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors">Contact</a>
+          </li>
+        </ul>
+      </div>
+      
+      
+      <div>
+        <h3 class="text-md font-bold text-gray-900 dark:text-white mb-4">Connect</h3>
+        <ul class="space-y-2">
+          <li>
+            <a href="mailto:princeo.asiedu@gmail.com" class="text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors flex items-center">
+              <i class="fas fa-envelope mr-2"></i> Email
+            </a>
+          </li>
+          <li>
+            <a href="https://linkedin.com/in/princeoforhasiedu" target="_blank" class="text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors flex items-center">
+              <i class="fab fa-linkedin mr-2"></i> LinkedIn
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/princeasiedu" target="_blank" class="text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors flex items-center">
+              <i class="fab fa-github mr-2"></i> GitHub
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+    
+    <div class="border-t border-gray-200 dark:border-gray-700 py-6"></div>
+    
+    
+    <div class="flex flex-col md:flex-row justify-between items-center text-gray-500 dark:text-gray-400 text-sm">
+      <p>&copy; 2024 Prince Oforh Asiedu. All Rights Reserved.</p>
+      <div class="mt-4 md:mt-0">
+        Built with <span class="text-primary">❤</span> using Hugo and TailwindCSS
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+  <button id="back-to-top" class="fixed bottom-6 right-6 p-2 rounded-full bg-primary text-white shadow-lg opacity-0 invisible transition-all duration-300">
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+    </svg>
+  </button>
+
+  <script>
+    
+    const backToTopButton = document.getElementById('back-to-top');
+    
+    window.addEventListener('scroll', () => {
+      if (window.pageYOffset > 300) {
+        backToTopButton.classList.replace('opacity-0', 'opacity-100');
+        backToTopButton.classList.replace('invisible', 'visible');
+      } else {
+        backToTopButton.classList.replace('opacity-100', 'opacity-0');
+        setTimeout(() => {
+          backToTopButton.classList.replace('visible', 'invisible');
+        }, 300);
+      }
+    });
+    
+    backToTopButton.addEventListener('click', () => {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    });
+  </script>
+</body>
+</html>
