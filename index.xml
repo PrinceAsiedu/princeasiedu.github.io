@@ -1,21 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Prince Oforh Asiedu - Security Engineering Journey</title><link>https://princeasiedu.github.io/</link><description>Recent content in Home on Prince Oforh Asiedu - Security Engineering Journey</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://princeasiedu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://princeasiedu.github.io/about/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://princeasiedu.github.io/about/</guid><description>&lt;h2 id="-hi-im-prince-oforh-asiedu">👋 Hi, I&amp;rsquo;m Prince Oforh Asiedu&lt;/h2>
-&lt;p>I&amp;rsquo;m a passionate &lt;strong>security-focused software engineer&lt;/strong> and &lt;strong>open-source security advocate&lt;/strong> based in &lt;strong>Ghana&lt;/strong>. My work revolves around &lt;strong>secure software development and security automation&lt;/strong>. This site serves as a journal of my learning journey, where I document insights, share research, and showcase the projects I build along the way.&lt;/p>
-&lt;h2 id="my-background">My Background&lt;/h2>
-&lt;p>I have a strong foundation in &lt;strong>software engineering&lt;/strong>, with experience in &lt;strong>backend development, cloud computing, and security engineering&lt;/strong>. My journey began with building scalable web applications, and over time, I developed a deep interest in &lt;strong>cybersecurity and DevSecOps&lt;/strong>.&lt;/p></description></item><item><title>Contact</title><link>https://princeasiedu.github.io/contact/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://princeasiedu.github.io/contact/</guid><description>&lt;h2 id="get-in-touch">Get In Touch&lt;/h2>
-&lt;p>I&amp;rsquo;m always open to collaborations, discussions, and new opportunities in the security and software engineering space. Feel free to reach out using any of the methods below:&lt;/p>
-&lt;h3 id="direct-contact">Direct Contact&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Email&lt;/strong>: &lt;a href="mailto:princeo.asiedu@gmail.com">princeo.asiedu@gmail.com&lt;/a>&lt;/li>
-&lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://linkedin.com/in/princeoforhasiedu">linkedin.com/in/princeoforhasiedu&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="professional-interests">Professional Interests&lt;/h3>
-&lt;p>I&amp;rsquo;m particularly interested in discussing:&lt;/p>
-&lt;ul>
-&lt;li>Open source security projects&lt;/li>
-&lt;li>Security engineering best practices&lt;/li>
-&lt;li>Cloud security architecture&lt;/li>
-&lt;li>Threat intelligence collaboration&lt;/li>
-&lt;li>DevSecOps methodologies&lt;/li>
-&lt;/ul>
-&lt;h3 id="mentorship--collaboration">Mentorship &amp;amp; Collaboration&lt;/h3>
-&lt;p>I believe in knowledge sharing and community building. If you&amp;rsquo;re new to security engineering and seeking guidance, or if you have a security-focused project that needs contributors, I&amp;rsquo;d be happy to help.&lt;/p></description></item><item><title>Beginning My Security Engineering Journey</title><link>https://princeasiedu.github.io/posts/beginning-my-security-journey/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://princeasiedu.github.io/posts/beginning-my-security-journey/</guid><description>My first steps on the path to becoming a security-focused software engineer.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Prince Oforh Asiedu - Security Engineering Journey</title><link>https://princeasiedu.github.io/</link><description>Recent content in Home on Prince Oforh Asiedu - Security Engineering Journey</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://princeasiedu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://princeasiedu.github.io/about/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://princeasiedu.github.io/about/</guid><description>&lt;h2 id="-hi-im-prince-oforh-asiedu"&gt;👋 Hi, I&amp;rsquo;m Prince Oforh Asiedu&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m a passionate &lt;strong&gt;security-focused software engineer&lt;/strong&gt; and &lt;strong&gt;open-source security advocate&lt;/strong&gt; based in &lt;strong&gt;Ghana&lt;/strong&gt;. My work revolves around &lt;strong&gt;secure software development and security automation&lt;/strong&gt;. This site serves as a journal of my learning journey, where I document insights, share research, and showcase the projects I build along the way.&lt;/p&gt;
+&lt;h2 id="my-background"&gt;My Background&lt;/h2&gt;
+&lt;p&gt;I have a strong foundation in &lt;strong&gt;software engineering&lt;/strong&gt;, with experience in &lt;strong&gt;backend development, cloud computing, and security engineering&lt;/strong&gt;. My journey began with building scalable web applications, and over time, I developed a deep interest in &lt;strong&gt;cybersecurity and DevSecOps&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Contact</title><link>https://princeasiedu.github.io/contact/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://princeasiedu.github.io/contact/</guid><description>&lt;h2 id="get-in-touch"&gt;Get In Touch&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m always open to collaborations, discussions, and new opportunities in the security and software engineering space. Feel free to reach out using any of the methods below:&lt;/p&gt;
+&lt;h3 id="direct-contact"&gt;Direct Contact&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href="mailto:princeo.asiedu@gmail.com"&gt;princeo.asiedu@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href="https://linkedin.com/in/princeoforhasiedu"&gt;linkedin.com/in/princeoforhasiedu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="professional-interests"&gt;Professional Interests&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m particularly interested in discussing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Open source security projects&lt;/li&gt;
+&lt;li&gt;Security engineering best practices&lt;/li&gt;
+&lt;li&gt;Cloud security architecture&lt;/li&gt;
+&lt;li&gt;Threat intelligence collaboration&lt;/li&gt;
+&lt;li&gt;DevSecOps methodologies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="mentorship--collaboration"&gt;Mentorship &amp;amp; Collaboration&lt;/h3&gt;
+&lt;p&gt;I believe in knowledge sharing and community building. If you&amp;rsquo;re new to security engineering and seeking guidance, or if you have a security-focused project that needs contributors, I&amp;rsquo;d be happy to help.&lt;/p&gt;</description></item><item><title>Sample Resource: Security Best Practices</title><link>https://princeasiedu.github.io/resources/security-best-practices/</link><pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate><guid>https://princeasiedu.github.io/resources/security-best-practices/</guid><description>&lt;h1 id="security-best-practices"&gt;Security Best Practices&lt;/h1&gt;
+&lt;p&gt;This is a sample resource page. You can add your own content here following this template.&lt;/p&gt;
+&lt;h2 id="key-topics"&gt;Key Topics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Secure coding principles&lt;/li&gt;
+&lt;li&gt;Authentication and authorization&lt;/li&gt;
+&lt;li&gt;Input validation&lt;/li&gt;
+&lt;li&gt;Cryptography basics&lt;/li&gt;
+&lt;li&gt;Common vulnerabilities (OWASP Top 10)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="example-content"&gt;Example Content&lt;/h2&gt;
+&lt;p&gt;Add your notes, guides, and curated links here.&lt;/p&gt;</description></item><item><title>Beginning My Security Engineering Journey</title><link>https://princeasiedu.github.io/posts/beginning-my-security-journey/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://princeasiedu.github.io/posts/beginning-my-security-journey/</guid><description>My first steps on the path to becoming a security-focused software engineer.</description></item></channel></rss>

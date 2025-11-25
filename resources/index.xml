@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Learning &amp; Resources on Prince Oforh Asiedu - Security Engineering Journey</title><link>https://princeasiedu.github.io/resources/</link><description>Recent content in Learning &amp; Resources on Prince Oforh Asiedu - Security Engineering Journey</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://princeasiedu.github.io/resources/index.xml" rel="self" type="application/rss+xml"/><item><title>Sample Resource: Security Best Practices</title><link>https://princeasiedu.github.io/resources/security-best-practices/</link><pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate><guid>https://princeasiedu.github.io/resources/security-best-practices/</guid><description>&lt;h1 id="security-best-practices"&gt;Security Best Practices&lt;/h1&gt;
+&lt;p&gt;This is a sample resource page. You can add your own content here following this template.&lt;/p&gt;
+&lt;h2 id="key-topics"&gt;Key Topics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Secure coding principles&lt;/li&gt;
+&lt;li&gt;Authentication and authorization&lt;/li&gt;
+&lt;li&gt;Input validation&lt;/li&gt;
+&lt;li&gt;Cryptography basics&lt;/li&gt;
+&lt;li&gt;Common vulnerabilities (OWASP Top 10)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="example-content"&gt;Example Content&lt;/h2&gt;
+&lt;p&gt;Add your notes, guides, and curated links here.&lt;/p&gt;</description></item></channel></rss>
