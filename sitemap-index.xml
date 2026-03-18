@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://princeasiedu.github.io/</loc>
+  </url>
+  <url>
+    <loc>https://princeasiedu.github.io/about/</loc>
+  </url>
+  <url>
+    <loc>https://princeasiedu.github.io/blog/</loc>
+  </url>
+  <url>
+    <loc>https://princeasiedu.github.io/hire/</loc>
+  </url>
+  <url>
+    <loc>https://princeasiedu.github.io/now/</loc>
+  </url>
+  <url>
+    <loc>https://princeasiedu.github.io/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://princeasiedu.github.io/blog/cosign-zot-signing/</loc>
+  </url>
+  <url>
+    <loc>https://princeasiedu.github.io/blog/netbird-vs-tailscale/</loc>
+  </url>
+  <url>
+    <loc>https://princeasiedu.github.io/blog/sbom-diffing-syft-grype/</loc>
+  </url>
+  <url>
+    <loc>https://princeasiedu.github.io/blog/supply-chain-pipeline/</loc>
+  </url>
+</urlset>
