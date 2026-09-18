@@ -1,0 +1,1 @@
+async function e(e,t=2){let n=0;for(;n<=t;)try{let t=await fetch(`https://github-proxy.prince14asiedu.workers.dev${e}`);if(!t.ok)throw Error(`GitHub proxy request failed: ${t.status}`);return await t.json()}catch(r){if(n===t)return console.warn(`[github] ${e} failed after ${t} retries`,r),null;n+=1,await new Promise(e=>setTimeout(e,800*n))}return null}export{e as t};

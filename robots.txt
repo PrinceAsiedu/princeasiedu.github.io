@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /api/
 
-Sitemap: https://princeasiedu.github.io/sitemap-index.xml
+Sitemap: https://blackmarshal.dev/sitemap.xml
