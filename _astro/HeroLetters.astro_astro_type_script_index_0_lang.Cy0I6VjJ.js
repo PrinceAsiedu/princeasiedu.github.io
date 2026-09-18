@@ -1,0 +1,1 @@
+import{t as e}from"./animation.Cu1vNBI_.js";import{t}from"./stagger.CeNYVAAY.js";window.matchMedia(`(prefers-reduced-motion: reduce)`).matches?document.querySelectorAll(`.hero-letter`).forEach(e=>{e.style.opacity=`1`,e.style.transform=`none`}):e({targets:`.hero-letter`,translateY:[40,0],opacity:[0,1],delay:t(45),duration:900,ease:`outElastic(1, 0.6)`});
